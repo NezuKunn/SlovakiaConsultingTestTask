@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7",
+    "@project-serum/serum": "^0.13.65",
+    "@solana/spl-token": "^0.4.6",
+    "bn.js": "^5.2.1",
+    "bs58": "^5.0.0"
+  }
+}
